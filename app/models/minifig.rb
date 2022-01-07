@@ -1,0 +1,2 @@
+class Minifig < ApplicationRecord
+end

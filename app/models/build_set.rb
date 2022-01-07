@@ -1,0 +1,2 @@
+class BuildSet < ApplicationRecord
+end

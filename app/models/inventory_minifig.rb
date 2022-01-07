@@ -1,0 +1,2 @@
+class InventoryMinifig < ApplicationRecord
+end
